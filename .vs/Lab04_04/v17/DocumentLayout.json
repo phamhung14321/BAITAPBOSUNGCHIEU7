@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\timkiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\timkiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\timkiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\timkiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|c:\\users\\manhh\\source\\repos\\lab04_04\\lab04_04\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3E1D5B4-B1E5-41F9-AE97-CC9C4BE0B137}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\Entities\\Student.cs",
+              "RelativeToolTip": "Lab04_04\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:14:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\QuanLyKhoa.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLyKhoa.cs",
+              "RelativeToolTip": "Lab04_04\\QuanLyKhoa.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwMIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:06:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\QuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLySinhVien.cs",
+              "RelativeToolTip": "Lab04_04\\QuanLySinhVien.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAnwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:48:50.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\TimKiemSinhVien.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\TimKiemSinhVien.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\TimKiemSinhVien.cs",
+              "RelativeToolTip": "Lab04_04\\TimKiemSinhVien.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwHUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:42:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimKiemSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\TimKiemSinhVien.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\TimKiemSinhVien.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\TimKiemSinhVien.cs [Design]",
+              "RelativeToolTip": "Lab04_04\\TimKiemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:11:24.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\QuanLyKhoa.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLyKhoa.cs [Design]",
+              "RelativeToolTip": "Lab04_04\\QuanLyKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:30:22.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLySinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\QuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\Lab04_04\\Lab04_04\\QuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "Lab04_04\\QuanLySinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:27:50.569Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
